@@ -1,5 +1,5 @@
 {
-  "son_surum": "v50",
-  "indirme_linki": "https://drive.google.com/file/d/1eRoD41VesbXMU9D-GcEEWxr0u558RyL4/view?usp=sharing",
-  "guncelleme_mesaji": "Yeni Guncelleme Yayinlandi!\n- İndirim hesaplama motoru (TL ve %) eklendi.\n- Toptanci sepeti dolar kuruyla entegre edildi.\n- İstediginiz gibi yeni kategori ekleme ozelligi aktif.\n- Tum alt yapi guclendirildi ve hatalar giderildi."
+  "son_surum": "v51 (Yeni Sürüm)",
+  "indirme_linki": "https://drive.google.com/file/d/1J97qzylYaDoVYUk2uTFWpTtg5kAbfj2p/view?usp=sharing",
+  "guncelleme_mesaji": "YENİ SÜRÜM (v51) ÇIKTI!\n\nNeler Eklendi?\n-Yıllık veri takibi analizi\n- 👥 Veresiye ve Toptancı Cari sistemi 'Tek Satır Bakiye' esnaf mantığına geçirildi.\n- 🔍 Tablolarda çift tıklayarak uzun yazıları okuyabileceğin 'İşlem Detay Paneli' açıldı.\n- 🗂️ Ayarlar bölümüne özgürce ekleme/silme yapabileceğin 'Kategori Yönetim Merkezi' eklendi.\n- 🤖 Program kapatıldığında otomatik fiş kesen 'Z-Raporu Asistanı' eklendi.\n- 🧾 Tamir ve Sipariş fişleri 'Müşteri' ve 'Esnaf' olmak üzere çift nüshaya dönüştürüldü.\n- 💻 Veresiye arayüzü genişletildi, tüm tasarım ve hizalama hataları kökünden çözüldü."
 }
