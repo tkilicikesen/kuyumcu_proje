@@ -1,5 +1,5 @@
 {
-  "son_surum": "v52 (Geliştiren: TUNAHAN KILICIKESEN)",
-  "indirme_linki": "https://drive.google.com/file/d/1SXDXe6GDCzrMA7_ezWsZxFdgsfUmJ_k6/view?usp=sharing",
-  "guncelleme_mesaji": "GÜMÜŞ VE SAAT MAĞAZALARINA ÖZEL DEV GÜNCELLEME!\n📦 Defolu & İade Ürün Deposu: Toptancıya iade edilecek kararmış/bozuk ürünlerin takibi sağlandı.\n🎁 Hediye Çeki & Değişim Kartı: Müşterilere dijital bakiye (örn: HC-84729) tanımlama sistemi getirildi.\n🛍️ Vitrin Eksiği: Biten ürünleri not alıp toptancıdan 'Alındı' yapacağınız alışveriş listesi eklendi.\n📅 CRM ve 🧰 Emanet Kasası özellikleri aktif edildi.\n🛠️ Arayüzdeki buton kaybolma ve taşma sorunları kökünden çözüldü."
+  "son_surum": "V58 (Geliştiren: TUNAHAN KILICIKESEN)",
+  "indirme_linki": "https://drive.google.com/file/d/1IqztX_CPr7ndtYwMt6Sw_V01yfL9qPux/view?usp=sharing",
+  "guncelleme_mesaji": "V58 GÜNCELLEMESİ!\n🔐 Kullanıcı Giriş Sistemi: Personel ve Stajyer için giriş ekranı ve oturum yönetimi eklendi.\n📱 Mobil Uygulama: Telefon ve tabletten WiFi/Harici ağ ile tam erişim (Cloudflare Tunnel).\n👤 Rol Bazlı Erişim: Patron her şeyi görür, Personel/Stajyer kısıtlı veri erişimi.\n📊 Dashboard Kısıtlamaları: Finansal veriler sadece Patron'a gösterilir.\n📸 Fotoğraf Sistemi: Envanter tablosunda fotoğraf göstergesi eklendi.\n💾 Otomatik Kayıt: Her 60 saniyede otomatik kayıt ve kapatma protokolü.\n🔄 Kullanıcı Değiştirme: Masaüstünde hesap değiştirme artık kök yeniden başlatma yapmaz.\n🛠️ PyInstaller Build: Tek exe dosyası ile dağıtım."
 }
