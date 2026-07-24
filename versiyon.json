@@ -1,5 +1,5 @@
 {
   "son_surum": "V58.5 (Geliştiren: TUNAHAN KILICIKESEN) (düzeltme)",
-  "indirme_linki": "https://drive.google.com/file/d/1ugRFm9VzGEGq6Zejp5_yoC_-SLU8bPod/view?usp=sharing",
+  "indirme_linki": "https://drive.google.com/file/d/14tOdx755qXwEy65T46Du3lgnQhlcxoFl/view?usp=sharing",
   "guncelleme_mesaji": "V58 GÜNCELLEMESİ!\n🔐 Kullanıcı Giriş Sistemi: Personel ve Stajyer için giriş ekranı ve oturum yönetimi eklendi.\n📱 Mobil Uygulama: Telefon ve tabletten WiFi/Harici ağ ile tam erişim (Cloudflare Tunnel).\n👤 Rol Bazlı Erişim: Patron her şeyi görür, Personel/Stajyer kısıtlı veri erişimi.\n📊 Dashboard Kısıtlamaları: Finansal veriler sadece Patron'a gösterilir.\n📸 Fotoğraf Sistemi: Envanter tablosunda fotoğraf göstergesi eklendi.\n💾 Otomatik Kayıt: Her 60 saniyede otomatik kayıt ve kapatma protokolü.\n🔄 Kullanıcı Değiştirme: Masaüstünde hesap değiştirme artık kök yeniden başlatma yapmaz.\n🛠️ PyInstaller Build: Tek exe dosyası ile dağıtım."
 }
